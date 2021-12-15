@@ -1,7 +1,1 @@
-﻿  Qasar.cpp
-C:\Users\Sofian\My C++\Qasar\Qasar\Qasar.cpp(149,57): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
-          with
-          [
-              _Ty=int
-          ]
-  Qasar.vcxproj -> C:\Users\Sofian\My C++\Qasar\x64\Debug\Qasar.exe
+﻿
